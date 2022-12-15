@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d95e86c4-1048-4359-82d1-d0a06b46146e" name="Changes" comment="godori second commit" />
+    <list default="true" id="64d25a55-a8c5-419f-ae73-497f8a648a5e" name="Changes" comment="godori second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/src/main/java/baseball/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/src/main/java/baseball/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/src/main/java/baseball/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/src/main/java/baseball/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/src/main/java/baseball/Executor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/src/main/java/baseball/Executor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/src/main/java/baseball/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/src/main/java/baseball/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/src/main/java/baseball/Referee.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/src/main/java/baseball/Referee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/src/test/java/baseball/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/src/test/java/baseball/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-baseball/LeeSangBin/java-baseball/src/test/java/study/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball/irang/java-baseball/src/test/java/study/StringTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,26 +41,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IwjurOSGHKWCBU4lG3vmUlBxmV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/godori/Documents/study/java-practice/team-GJava/java-onboarding",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/godori/Documents/study/java-practice/team-GJava/java-onboarding&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/java-onboarding" />
