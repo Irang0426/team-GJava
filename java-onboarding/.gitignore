@@ -2,8 +2,8 @@ HELP.md
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
-!src/main/java
-!java-baseball/godori/src/test/**
+!**/src/main/**
+!**/src/test/**
 
 ### STS ###
 .apt_generated
